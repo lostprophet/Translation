@@ -193,20 +193,20 @@
 	<system:String x:Key="Backup.Save">Save</system:String>
 	<system:String x:Key="Backup.ClearLog">Clear log</system:String>
 	<system:String x:Key="Backup.DestRootFolder">Remote Folder</system:String>
-	<system:String x:Key="Backup.SourceFolders">Source Folder</system:String>
-	<system:String x:Key="Backup.Progress">Progress</system:String>
-	<system:String x:Key="Backup.AutoStart">Auto Start</system:String>
-	<system:String x:Key="Backup.LogTab.Current">Current</system:String>
-	<system:String x:Key="Backup.LogTab.All">All</system:String>
-	<system:String x:Key="Backup.LogTab.Error">Error</system:String>
-	<system:String x:Key="Backup.LogTab.Ready">Ready</system:String>
-	<system:String x:Key="Backup.LogTab.Left">Left</system:String>
-	<system:String x:Key="Backup.LogTab.File">File</system:String>
-	<system:String x:Key="Backup.LogTab.Folder">Folder</system:String>
-	<system:String x:Key="Backup.LogTab.FollowLatest">Follow Latest</system:String>
-	<system:String x:Key="Backup.Count.Left">Left</system:String>
-	<system:String x:Key="Backup.Count.Processed">Processed</system:String>
+	<system:String x:Key="Backup.SourceFolders">Forrás könyvtár</system:String>
+	<system:String x:Key="Backup.Progress">Folyamat</system:String>
+	<system:String x:Key="Backup.AutoStart">Aut. indítás</system:String>
+	<system:String x:Key="Backup.LogTab.Current">Aktuális</system:String>
+	<system:String x:Key="Backup.LogTab.All">Összes</system:String>
+	<system:String x:Key="Backup.LogTab.Error">Hiba</system:String>
+	<system:String x:Key="Backup.LogTab.Ready">Kész</system:String>
+	<system:String x:Key="Backup.LogTab.Left">Bal</system:String>
+	<system:String x:Key="Backup.LogTab.File">Fájl</system:String>
+	<system:String x:Key="Backup.LogTab.Folder">Könyvtár</system:String>
+	<system:String x:Key="Backup.LogTab.FollowLatest">Legújabb követése</system:String>
+	<system:String x:Key="Backup.Count.Left">Bal</system:String>
+	<system:String x:Key="Backup.Count.Processed">Feldolgozva</system:String>
 
-	<system:String x:Key="Message.Backup.BackupTargetFolder">Select a remote folder where files will be stored</system:String>
+	<system:String x:Key="Message.Backup.BackupTargetFolder">Válassz egy távoli mappát, ahol a fájlok tárolásra kerülnek</system:String>
 
 </ResourceDictionary>
